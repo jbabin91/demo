@@ -1,13 +1,8 @@
 {
   "contentType": "application/vnd.userApplicationSettings+json",
-  "schema": "1.0.0",
   "$type": "QualiaUserApplicationSettings",
   "activeProgramInstanceId": "e87524b3-be15-4ef1-8fd8-5a9f041db830",
-  "defaultMeasurementSystem": 2,
-  "preferredUICulture": "en-US",
-  "id": "vnd.userApplicationSettings_fbf90627-7d55-440f-b13b-6c5c7659bbaf_qualia.mobile",
   "userId": "fbf90627-7d55-440f-b13b-6c5c7659bbaf",
-  "applicationId": "qualia.mobile",
   "additionalProperties": {
     "age": "Not Specified",
     "defaultCountryCode": "CA",
@@ -24,10 +19,5 @@
     "lastUpdatedOn": "636697622719175770",
     "programId": "dcf24d16-4d63-4065-bf49-01ef55867071",
     "startTime": "07:00:00"
-  },
-  "_rid": "GMIiAPVGzgARCgAAAAAAAA==",
-  "_self": "dbs/GMIiAA==/colls/GMIiAPVGzgA=/docs/GMIiAPVGzgARCgAAAAAAAA==/",
-  "_etag": "\"08000842-0000-0000-0000-5b7181e00000\"",
-  "_attachments": "attachments/",
-  "_ts": 1534165472
+  }
 }
